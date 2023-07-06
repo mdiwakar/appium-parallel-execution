@@ -24,7 +24,7 @@ A lean, up-to-date, and cross-platform solution to run your mobile tests into a 
 
 ## How you can use this repo
 You can use this repo as a start point to implement your own cross-platform parallel execution in a grid.
-It uses different libraries and design pater to make it lean, easy to maintain and extend.
+It uses different libraries and design patterns to make it lean, easy to maintain and extend.
 
 ## Technical Decisions
 This section will show to you the libraries, frameworks and design decisions that made a lean architecture possible.
