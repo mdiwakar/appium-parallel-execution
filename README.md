@@ -33,7 +33,7 @@ This section will show to you the libraries, frameworks and design decisions tha
 
 This project using the following languages and frameworks:
 
-* [Java 11](https://openjdk.java.net/projects/jdk/11/) as the programming language
+* [Java 17](https://openjdk.java.net/projects/jdk/17/) as the programming language
 * [TestNG](https://testng.org/doc/) as the UnitTest framework to support the test creation
 * [Appium](http://appium.io/) as the mobile test automation framework
 * [Seleium Grid](https://www.selenium.dev/documentation/en/grid/) as the grid and paralellism solution
